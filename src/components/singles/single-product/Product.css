@@ -1,0 +1,20 @@
+.SingleProduct {
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 60px 10px;
+    border: 1px lightcoral solid;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+}
+
+.SingleProduct>button {
+    position: relative;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

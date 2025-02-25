@@ -1,0 +1,15 @@
+button {
+    position: relative;
+    left: 0px;
+    background-color: tomato;
+}
+
+.NewProduct {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    position: relative;
+    top: -15px
+}

@@ -1,0 +1,12 @@
+.Products {
+    display: flex;
+    flex-flow: wrap;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+#addProductDraft {
+    background-color: green;
+    position: relative;
+    left: 20px;
+}
